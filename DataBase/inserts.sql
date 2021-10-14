@@ -1,5 +1,5 @@
 insert into Personas values (101, 1030575509, "Julio Cesar", "Ramirez Penagos", "julio.ramirezp@cun.edu.co", "Calle 11 No. 4-21/ 93", "3122620320", "1990-05-16");
-insert into Personas values (102, 3820870365, "Diego Andres", "Albarracin", "diego.albarracinmi@cun.edu.co", "A beautiful place known as Earth", "3122620320", "1990-05-16");
+insert into Personas values (102, 1820870365, "Diego Andres", "Albarracin", "diego.albarracinmi@cun.edu.co", "A beautiful place known as Earth", "3122620320", "1990-05-16");
 insert into Personas values (103, 1770996918, "Christian", "Castellanos", "christian.castellanosb@cun.edu.co", "A beautiful place known as Earth", "3122620320", "1990-05-16");
 insert into Personas values (104, 1609419028, "Santiago", "Gonzalez Sanchez", "santiago.gonzalezs@cun.edu.co", "A beautiful place known as Earth", "3122620320", "1990-05-16");
 insert into Personas values (105, 1570179086, "Camilo", "Cubides", "camilo.cubides@cun.edu.co", "Av cra 68 # 13 - 50", "3116418414", "1990-06-30");
