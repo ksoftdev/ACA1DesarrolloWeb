@@ -1,4 +1,4 @@
-# Django + ReactJS ecommerce website
+# DESARROLLO WEB ACA I
 
 This application has been build for covering the objectives of the class "Desarrollo Web GRUPO 51272".
 
