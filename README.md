@@ -25,6 +25,9 @@ Online live demo
 ## Credits
 
 Diego Andrés Albarracin
+
 Christian castellanos
+
 Santiago Gonzalez Sanchez
+
 Julio César Ramírez
